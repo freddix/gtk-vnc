@@ -1,7 +1,7 @@
 Summary:	A GTK widget for VNC clients
 Name:		gtk-vnc
 Version:	0.5.3
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Development/Libraries
 Source0:	http://ftp.acc.umu.se/pub/GNOME/sources/gtk-vnc/0.5/%{name}-%{version}.tar.xz
